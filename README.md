@@ -4,11 +4,18 @@
 * 📚 Estudando Node.js
 * 😁 Pronomes: Ele/Dele
 
-<div> 
+<!-- <div> 
     <a href="https://github.com/henriquesc10">
-    <!-- <img height="165em" src="https://github-readme-stats.vercel.app/api?username=henriquesc10&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/> -->
+    <img height="165em" src="https://github-readme-stats.vercel.app/api?username=henriquesc10&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
     <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriquesc10&layout=compact&lang_count=20&theme=merko"/>
 </div>
+-->
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/henriquesc10/henriquesc10/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/henriquesc10/henriquesc10/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/henriquesc10/henriquesc10/output/github-contribution-grid-snake.svg">
+</picture>
 
 ##
 
@@ -25,9 +32,3 @@
 </div>
 
 ##
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/henriquesc10/henriquesc10/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/henriquesc10/henriquesc10/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/henriquesc10/henriquesc10/output/github-contribution-grid-snake.svg">
-</picture>
